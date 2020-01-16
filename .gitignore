@@ -2,7 +2,6 @@
 .metadata/*
 *.swp
 *~
-node_modules
 package-lock.json
 spec/myplugin
 spec/plugins
